@@ -2,6 +2,8 @@
 
 ## I'm a aspiring JS dev with some SysAdmin scars to prove I’ve been around tech a while.
 
+Please check my organization from Telerik - "Web-Giphy-A67JS". There are our shared repos with the team
+
 **Stuff I Mess With:**  
 - **Coding**: JavaScript, React.js, Firebase  
 - **Testing**: Git, Jest, Postman  
